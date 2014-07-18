@@ -1,4 +1,4 @@
-Combine the elements into one script
+#Combine the elements into one script
 Make the scan processing quicker by defaulting to scanning +-20 pixels from previous detected point
 Comment code
 Test on RasPi
